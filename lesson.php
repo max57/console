@@ -4,7 +4,7 @@ $d=(5==5.0);
 echo (int)$d;
 
 /asas
-
+asdsad
 
 /*
 $x='Привет, ';
